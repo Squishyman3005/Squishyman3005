@@ -1,0 +1,36 @@
+html{
+    font-size: 10 px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #F85B1A;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin:0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px darkgrey;
+}
+
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: black;
+}
+li{
+    list-style-position: inside;
+}
+body{
+    background-color: cyan;
+    width: 600px;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+img{
+    display:block;
+    margin:0 auto;
+}
